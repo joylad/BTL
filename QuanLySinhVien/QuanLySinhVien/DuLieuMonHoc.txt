@@ -1,0 +1,101 @@
+CDR.NN,	Chuẩn đầu ra Ngoại ngữ, 1	
+GDQP321, Công tác quốc phòng và an ninh, 2	
+GDQP311, Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam, 2	
+GDQP341, Kỹ thuật chiến đấu bộ binh và chiến thuật, 2	
+GDQP331, Quân sự chung, 2	
+BOI111,	Bơi, 1	
+BC111, Bóng chuyền 1,	1	
+BC121, Bóng chuyền 2,	1
+BC211, Bóng chuyền chuyên sâu 1, 1	
+BC221, Bóng chuyền chuyên sâu 2, 1	
+BC231, Bóng chuyền chuyên sâu 3, 1	
+BC241, Bóng chuyền chuyên sâu 4, 1	
+BC251, Bóng chuyền chuyên sâu 5, 1	
+BD111, Bóng đá, 1	
+BD211, Bóng đá chuyên sâu 1, 1	
+BD221, Bóng đá chuyên sâu 2, 1	
+BD231, Bóng đá chuyên sâu 3, 1	
+BD241, Bóng đá chuyên sâu 4, 1	
+BD251, Bóng đá chuyên sâu 5, 1	
+BR111, Bóng rổ, 1
+BR211, Bóng rổ chuyên sâu 1, 1	
+BR221, Bóng rổ chuyên sâu 2, 1	
+BR231, Bóng rổ chuyên sâu 3, 1	
+BR241, Bóng rổ chuyên sâu 4, 1	
+BR251, Bóng rổ chuyên sâu 5, 1	
+CL111, Cầu lông, 1	
+CL211, Cầu lông chuyên sâu 1, 1	
+CL221, Cầu lông chuyên sâu 2, 1	
+CL231, Cầu lông chuyên sâu 3, 1	
+CL241, Cầu lông chuyên sâu 4, 1	
+CL251, Cầu lông chuyên sâu 5, 1	
+CV111, Cờ vua, 1	
+DK111, Điền kinh, 1	
+Go111, Golf, 1	
+KV111, Khiêu vũ thể thao, 1	
+QV111, Quần vợt, 1	
+TH111, Thể hình, 1	
+YG111, Yoga, 1	
+MATH333, Đại số tuyến tính, 3
+MATH111, Giải tích hàm một biến, 3
+MATH122, Giải tích hàm nhiều biến, 3
+CSE111,	Nhập môn lập trình, 3
+MATH254, Xác suất thống kê, 3
+CSE281,	Cấu trúc dữ liệu và giải thuật, 3
+CSE484,	Cơ sở dữ liệu, 3
+CSE481,	Công nghệ phần mềm, 3
+CSE370,	Kiến trúc máy tính, 3
+CSE205,	Lập trình nâng cao, 3
+CSE204,	Lập trình Python, 3
+CSE383,	Lập trình Windows, 3
+CSE311,	Linux và phần mềm mã nguồn mở, 2
+CSE489,	Mạng máy tính, 3
+CSE391,	Nền tảng phát triển Web, 3
+CSE353,	Nguyên lý hệ điều hành, 3
+CSE224,	Nguyên lý lập trình hướng đối tượng, 3
+CSE480, Phân tích và thiết kế hệ thống thông tin, 3
+CSE290,	Tiếng Anh chuyên ngành công nghệ thông tin, 3
+CSE213,	Toán rời rạc, 3
+CSE492,	Trí tuệ nhân tạo, 3
+CSE485,	Công nghệ Web, 3
+CSE486,	Hệ quản trị cơ sở dữ liệu, 3
+CSE284,	Lập trình Java, 3
+CSE408,	Chuyên đề Kỹ thuật phần mềm, 3
+CSE445,	Học máy, 3
+CSE462,	Kiểm thử và đảm bảo chất lượng phần mềm, 3
+CSE423,	Lập trình phân tán, 3
+CSE461,	Phân tích yêu cầu phần mềm, 3
+CSE411,	Phát triển dự án phần mềm, 3
+CSE441,	Phát triển ứng dụng cho các thiết bị di động, 3
+CSE460,	Tương tác người máy, 3
+SSE111, Kỹ năng mềm và tinh thần khởi nghiệp, 3
+SCSO232, Chủ nghĩa xã hội khoa học, 2
+MLPE222, Kinh tế chính trị Mác - Lênin, 2
+HCPV343, Lịch sử Đảng Cộng sản Việt Nam, 2
+GEL111,	Pháp luật đại cương, 2
+MLP121,	Triết học Mác - Lênin, 3
+HCMT354, Tư tưởng Hồ Chí Minh, 2
+TATC111, Tiếng Anh tăng cường, 6	
+ENG213,	Tiếng Anh 1, 3
+ENG224,	Tiếng Anh 2, 3
+DATN117, Đồ án tốt nghiệp, 10
+CSE303,	Thực tập tốt nghiệp, 4
+CSE407,	Các vấn đề tiên tiến trong thiết kế phần mềm, 3
+CSE487,	Đồ họa máy tính, 3
+CSE415,	Lập trình đồ họa 3D, 3
+CSE380,	Lập trình kịch bản, 3
+CSE392,	Quản lý dự án công nghệ thông tin, 3
+CSE494,	Thiết kế và phát triển game, 3
+CSE426,	Thuật toán ứng dụng, 3
+CSE547,	Thương mại điện tử, 3
+CSE429,	Học sâu và ứng dụng, 3
+CSE470,	Học tăng cường và ứng dụng, 3
+CSE418,	Truy hồi thông tin và tìm kiếm web, 3
+CSE457,	Xử lý âm thanh và tiếng nói, 3
+CSE456,	Xử lý ảnh, 3
+CSE458,	Xử lý ngôn ngữ tự nhiên, 3
+CSE387,	An toàn và bảo mật thông tin, 3
+CSE455,	Chuỗi khối và công nghệ sổ cái phân tán, 3
+CSE475,	Kết nối vạn vật và ứng dụng, 3
+CSE419,	Mạng không dây và di động, 3
+CSE421, Quản trị mạng, 3

@@ -1,0 +1,20 @@
+﻿  Lop.cpp
+  SinhVien.cpp
+  main.cpp
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\DoHoa.h(28,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\DoHoa.h(28,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(245,12): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(245,12): warning C4566: character represented by universal-character-name '\u00E3' cannot be represented in the current code page (1258)
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(172,2): warning C4102: 'loop1': unreferenced label
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  QuanLySinhVien.vcxproj -> C:\Users\quang\Downloads\QuanLySinhVien\x64\Debug\QuanLySinhVien.exe

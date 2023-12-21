@@ -1,0 +1,503 @@
+Dương Ngọc Khanh, Nghệ An, 0559658516, 1/02/2004, K64KTPM5
+Nguyễn Tuấn Linh, Hà Nam, 094667838, 2/02/2004, K64KTPM5
+Nguyễn Thị Hồng, Nghệ An, 055976896, 3/02/2004, K64KTPM5
+Nguyễn Văn Nam, Hà Nam, 094656447, 4/02/2004, K64KTPM5
+Tạ Hồng THái, Hà Nội, 078669869, 5/02/2004, K64KTPM5
+Nguyễn Văn An, Thanh Hóa, 098976546, 14/02/2004, K64KTPM5
+Đinh Tiến Đạt, Hà Nội, 0989892271, 6/02/2004, K64KTPM5
+Đào Văn Hưng, Thanh Hóa, 089955724, 7/02/2004, K64KTPM5
+Nguyễn Văn Tuấn, Nghệ An, 077893342, 8/02/2004, K64KTPM5
+Nguyễn Hồng Hà, Nam Định, 099087373, 9/02/2004, K64KTPM5
+Nguyễn Xuân Bình, Thanh Hóa, 0558765997, 10/02/2004, K64KTPM5
+Nguyễn Thị Hà, Nam Định, 099890653, 11/02/2004, K64KTPM5
+Dương Văn Hưng, Lạng Sơn, 0789112342, 12/02/2004, K64KTPM5
+Đinh Thu Hương, Huế, 086578966, 13/02/2004, K64KTPM5
+Nguyễn Thị Hoài, Nam Định, 090997768, 16/02/2004, K64KTPM5
+Nguyễn Trung Kiên, Hà Nội, 055967655, 15/02/2004, K64KTPM5
+Dương Văn Sơn, Nghệ An, 0889744643, 17/02/2004, K64KTPM5
+Hồ Xuân Phương, Hà Nội, 0933927183, 18/02/2004, K64KTPM5
+Nguyễn Thị Hương, Quảng Ninh, 0889762234, 19/02/2004, K64KTPM5
+Hồ Huyền Vy, Nghệ An, 096675456, 20/02/2004, K64KTPM5
+Đinh Văn Thành, Lạng Sơn, 098876587, 21/02/2003, K63KTPM
+Hồ Văn Nghĩa, Thanh Hóa, 099846588, 22/02/2003, K63KTPM
+Nguyễn Thị Linh, Thái Bình, 099876868, 23/02/2003, K63KTPM
+Hồ Văn Sơn, Lào Cai, 0984453475, 24/02/2003, K63KTPM
+Nguyễn Xuân Bình, Hà Tĩnh, 0958765997, 25/02/2003, K63KTPM
+Nguyễn Thị Hà, Nam Định, 059890653, 26/02/2003, K63KTPM
+Hồ Văn An, Thanh Hóa, 099946588, 27/02/2003, K63KTPM
+Nguyễn Thị Thùy Linh, Thái Bình, 090876868, 28/02/2003, K63KTPM
+Phan Văn Tuấn, Nghệ An, 0747893787, 29/02/2003, K63KTPM
+Nguyễn THị Hồng Hà, Nam Định, 099087765, 39/02/2003, K63KTPM
+Phạm Thành An, Nghệ An, 098893787, 31/02/2003, K63KTPM
+Nguyễn THị Phương, Nam Định, 099084325, 1/02/2003, K63KTPM
+Dương Quyền Linh, Nghệ An, 0985546355, 2/02/2003, K63KTPM
+Tạ Hồng Hưng, Hà Nội, 098669549, 3/02/2003, K63KTPM
+Nguyễn Văn Hà, Thanh Hóa, 098989496, 4/02/2003, K63KTPM
+Đinh Văn Đạt, Hà Nội, 098983212, 5/02/2003, K63KTPM
+Nguyễn Văn Linh, Hà Nam, 089767838, 6/02/2003, K63KTPM
+Nguyễn Thị Hồng, Hải Phòng, 055976876, 7/02/2003, K63KTPM
+Nguyễn Văn Nam, Hà Tĩnh, 0946522447, 8/02/2003, K63KTPM
+Nguyễn Thị Hương, Điện Biên, 097785477, 9/02/2003, K63KTPM
+Nguyễn Thị Hoài, Nghệ An, 080997768, 10/02/2004, K64CNTT
+Nguyễn Trung Kiên, Hà Nội, 0559676585, 11/02/2004, K64CNTT
+Dương Văn Sơn, Nghệ An, 0889744673, 12/02/2004, K64CNTT
+Hồ Xuân Phương, Hà Nội, 093392776, 13/02/2004, K64CNTT
+Phạm Thành An, Nghệ An, 098893787, 14/02/2004, K64CNTT
+Nguyễn THị Phương, Nam Định, 097884325, 15/02/2003, K64CNTT
+Dương Quyền Linh, Hà Nam, 098554455, 16/02/2004, K64CNTT
+Vũ Xuân Dân, Hòa Bình, 036652633, 17/02/2004, K64CNTT
+Hà Huy Tập, Quảng Bình, 097786542, 18/02/2004, K64CNTT
+Nguyễn Văn Huy, Quảng Nam, 097786555, 19/02/2004, K64CNTT
+Dương Ngọc Linh, Nghệ An, 0579658516, 20/02/2004, K64CNTT
+Nguyễn Thị Linh, Hà Nam, 09477838, 21/02/2004, K64CNTT
+Nguyễn Thị Hồng, Hà Nội, 055776896, 22/02/2004, K64CNTT
+Nguyễn Văn Nam, Hà Nam, 094606447, 23/02/2004, K64CNTT
+Tạ Hồng THái, Hà Nội, 078669069, 24/02/2004, K64CNTT
+Nguyễn Văn An, Thanh Hóa, 098076546, 25/02/2004, K64CNTT
+Đinh Tiến Đạt, Hà Nội, 098988271, 26/02/2004, K64CNTT
+Đào Văn Hưng, Hải Phòng, 089905724, 27/02/2004, K64CNTT
+Nguyễn Văn Tuấn, Nghệ An, 089693342, 28/02/2004, K64CNTT
+Nguyễn Hồng Hà, Nam Định, 089087373, 29/02/2004, K64CNTT
+Lê Nhật Minh, Hà Nội, 097757775, 30/02/2004, K64KT2
+Nguyễn Bình Minh, Hà Nội, 099857875, 31/02/2004, K64KT2
+Thái Nhật Minh, Hòa Bình, 087797775, 14/03/2004, K64KT2
+Nguyễn Đức Nam, Nghệ An, 093384838, 14/04/2004, K64KT2
+Nguyễn Văn Nam, Gia Lai, 099856523, 14/05/2004, K64KT2
+Đào Văn Nghĩa, Quảng Ninh, 096283884, 14/02/2004, K64KT2
+Trần Thị Ngọc, Hà Nội, 097757775, 14/06/2004, K64KT2
+Trịnh Khánh Ngọc, Lào Cai, 099887765, 14/07/2004, K64KT2
+Nguyễn Quang Phố, THanh Hóa, 077887666, 14/08/2004, K64KT2
+Nguyễn Đăng Phúc, Nam Định, 0933261623, 14/09/2004, K64KT2
+Đỗ Hữu Minh Tuấn, Hòa Bình, 0815993051, 14/10/2004, K64KT2
+Hoàng Ngọc Sơn, Nghệ An, 0373334708, 14/11/2004, K64KT2
+Vi Văn Qúy, Hà Nội, 097173692, 14/12/2004, K64KT2
+Vũ Long Hải, Tiên Quang, 0941631273, 11/02/2004, K64KT2
+Nguyễn Hồng Quân, Thanh Hóa, 0989521132, 24/02/2004, K64KT2
+Nguyễn Thanh Tú, Nam Đinh, 0387125493, 4/02/2004, K64KT2
+Lò Huy Hoàng, Hải Phòng, 0815223004, 12/02/2004, K64KT2
+Chu Thu Hiền, Hà Nội, 0965312004, 16/02/2004, K64KT2
+Ngô Thị Quỳnh Tân, Nghệ An, 0971964632, 13/02/2004, K64KT2
+Ngô Xuân Hòa, Nghệ An, 080864632, 19/02/2004, K64KT2
+Trương Quốc Huy, Thanh Hóa, 0835184767, 24/02/2004, K64KT2
+Nguyễn Giang Đông, Hà Nội, 0912852972, 16/03/2004, K64KT2
+Lê Tùng Dương, Hà Nội, 0865641682, 12/08/2004, K64KT2
+Bùi Quang Thắng, Thanh Hóa , 0334837777, 24/06/2004, K64KT2
+Lê Trí Đức, Thái Bình, 0372712176, 4/12/2004, K64KT2
+Nguyễn Văn Khải, Hưng Yên, 0981265409, 4/06/2004, K64KT2
+HỒ XUÂN DÂN, Hà Nội, 036724604, 1/09/2004, K64KT2
+Nguyễn Đức Bình, Thái Bình, 0398854422, 4/03/2004, K64KT2
+Nguyễn Bảo Chung, Hòa Bình, 095651822, 12/02/2004, K64KT2
+Nguyễn Trà Giang, Hà Nội, 0987364606, 13/04/2004, K64KT2
+Nguyễn Diệu Hoài Anh, Hà Nội, 0916382004, 14/09/2003, K63QL
+Trần Anh Đức, Hưng Yên, 0394197944, 34/02/2003, K63QL
+Nguyễn Văn Dương, Hà Nội, 0968931923, 14/06/2003, K63QL
+Nguyễn Khắc Nam Phương, Hà Nội, 0967520976, 29/02/2003, K63QL
+Lê Quyết Tiến, Thanh Hóa, 0983581421, 1/02/2003, K63QL
+Nguyễn Xuân Bình, Thanh Hóa, 0965311256, 12/02/2003, K63QL
+Nguyễn Ngọc Hiệp, Hà Nội, 0978739204, 4/02/2003, K63QL
+Lê Phương Thanh, Nghệ An, 0852462097, 13/02/2003, K63QL
+Dương Tiến Đạt, Thái Bình, 0338326650, 24/02/2003, K63QL
+Lê Trần Tiến Bảo, NGhệ An, 0978250838, 24/02/2003, K63QL
+Đinh Thị Thu Hương, Quang Bình, 0333601263, 24/03/2004, K64KTS
+Chu Dương Khánh, Nam Định, 0704047807, 14/05/2003, K64KTS
+Nguyễn Thị Hoa, Bắc Ninh, 0925990469, 14/02/2004, K64KTS
+Lê Thu Hương, Hà Tĩnh, 0345312937, 14/05/2004, K64KTS
+Hoàng Anh Phương, Bắc Giang, 0389674170, 24/02/2004, K64KTS
+Nguyễn Thị Thanh Nhàn, Hà Giang, 0385776324, 14/03/2004, K64KTS
+Lại Yến Trang, Hà Nội, 0906201621, 16/02/2004, K64KTS
+Phạm Minh Hưng, Thanh Hóa, 0889619488, 14/04/2004, K64KTS
+Trần Minh Đức, Hải Phòng, 0927112113, 11/02/2004, K64KTS
+Nguyễn Dương Thiệu, Nam Định, 0315478892, 14/04/2004, K64KTS
+Phạm Minh Tú, Nam Định, 0877467128, 14/08/2004, K64KTS
+Nguyễn Vinh Quang, Hà Nội, 0343652004, 19/02/2004, K64KTS
+Nguyễn Viết Quang, Hà Tĩnh, 084648287, 14/10/2004, K64KTS
+Hoàng Vinh Quang, Điện Biên, 090402961, 14/12/2004, K64KTS
+Hoàng Minh Nghĩa, Tiên Quang, 0982213877, 11/02/2004, K64KTS
+Lê Trọng Kiên, Hà Nội, 0368067376, 18/05/2004, K64KTS
+Lê Đình Tiến Lực, Thanh Hóa, 0374365801, 4/12/2004, K64KTS
+Nguyễn Hữu Lâm, Nghệ An, 0352004354, 6/05/2004, K64KTS
+Nguyễn Trung Kiên, Hải Phòng, 0369533292, 14/06/2004, K64KTS
+Trương Nhật Hoàng , Quảng Ninh, 0889820555, 9/02/2004, K64KTS
+Phùng Huy Hoàng, Sơn La, 0971457198, 19/12/2004, K64KTS
+Phan Trọng Dũng, Lạng Sơn, 0979844293, 20/02/2004, K64KTS
+Đinh Văn Thành, Lạng Sơn, 098876583, 12/10/2004, K64KTS
+Hồ Văn Nghĩa, Thanh Hóa, 0998465887, 29/02/2004, K64KTS
+Nguyễn Thị Linh, Thái Bình, 099876867, 22/02/2004, K64KTS
+Hồ Văn Sơn, Lào Cai, 0984453467, 18/08/2004, K64KTS
+Nguyễn Xuân Bình, Hà Tĩnh, 095876599, 11/09/2004, K64KTS
+Nguyễn Thị Hà, Nam Định, 059890659, 28/12/2004, K64KTS
+Hồ Văn An, Thanh Hóa, 099946580, 19/04/2004, K64KTS
+Nguyễn Thị Thùy Linh, Thái Bình, 090876865, 12/09/2004, K64KTS
+Phan Văn Tuấn, Nghệ An, 077893789, 16/04/2004, K64KTS
+Nguyễn THị Hồng Hà, Nam Định, 099087787, 14/08/2004, K64KTS
+ưDương Ngọc Linh, Nghệ An, 057965855, 14/09/2004, K64KTS
+Nguyễn Thị Linh, Hà Nam, 094778399, 14/12/2004, K64KTS
+Nguyễn Thị Hồng, Hà Nội, 055776898, 24/02/2004, K64KTS
+Nguyễn Văn Nam, Hà Nam, 094606887, 14/07/2004, K64KTS
+Tạ Hồng THái, Hà Nội, 078669009, 17/02/2004, K64KTS
+Nguyễn Văn An, Thanh Hóa, 098076590, 27/02/2004, K64KTS
+Đinh Tiến Đạt, Hà Nội, 098988290, 27/07/2004, K64KTS
+Đào Văn Hưng, Hải Phòng, 089905889, 15/13/2004, K64KTS
+Đinh Văn Thành, Lạng Sơn, 098876580, 19/10/2004, K64N
+Hồ Văn Nghĩa, Thanh Hóa, 099846580, 14/09/2004, K64N
+Nguyễn Thị Linh, Thái Bình, 099876860, 24/02/2004, K64N
+Hồ Văn Sơn, Lào Cai, 0984453470, 14/01/2004, K64N
+Nguyễn Xuân Bình, Hà Tĩnh, 0958765900, 14/11/2004, K64N
+Nguyễn Thị Hà, Nam Định, 059890658, 27/02/2004, K64N
+Hồ Văn An, Thanh Hóa, 099946589, 24/09/2004, K64N
+Nguyễn Thị Thùy Linh, Thái Bình, 0908768688, 12/12/2004, K64N
+Phan Văn Tuấn, Nghệ An, 0778937809, 15/06/2004, K64N
+Nguyễn THị Hồng Hà, Nam Định, 0993087767, 19/08/2004, K64N
+Đinh Văn Thành An, Lạng Sơn, 078876580, 15/09/2004, K64N
+Hồ Văn Bình, Thanh Hóa, 099876580, 18/02/2004, K64N
+Nguyễn Thị Thùy Linh, Thái Bình, 099876860, 17/09/2004, K64N
+Hồ Văn Bao, Lào Cai, 098444576, 12/10/2004, K64N
+Dương Xuân Bình, Hà Tĩnh, 0878765900, 21/09/2004, K64N
+Nguyễn Thị Túy, Nam Định, 059880658, 21/08/2004, K64N
+Hồ Văn Tân, Thanh Hóa, 099948589, 9/02/2004, K64N
+Nguyễn  Thùy Linh, Thái Bình, 080768688, 21/10/2004, K64N
+Hoàng Văn Tuấn, Nghệ An, 0778937800, 14/11/2004, K64N
+Nguyễn Văn Hà, Nam Định, 088087897, 11/12/2004, K64N
+Lê Văn Minh, Hà Nội, 097756775, 11/09/2004, K64N
+Nguyễn Văn Minh, Hà Nội, 096877875, 24/07/2004, K64N
+Thái Nhật Bình, Hòa Bình, 086797775, 10/03/2004, K64N
+Nguyễn Đức Anh, Nghệ An, 093386838, 10/09/2004, K64N
+Nguyễn Văn Dương, Gia Lai, 096856523, 28/02/2004, K64N
+Đào Văn An, Quảng Ninh, 096286884, 29/09/2004, K64N
+Trần Thị Ngọc, Hà Nội, 097757675, 17/07/2004, K64N
+Trịnh Duy Ngọc, Lào Cai, 099887766, 19/07/2004, K64N
+Nguyễn Quang Lâm, Thanh Hóa, 0778877660, 18/06/2004, K64N
+Nguyễn Đăng Long, Nam Định, 0933356230, 13/09/2004, K64N
+Hoàng Phương Anh, Bắc Giang, 0389674130, 13/03/2004, K64XD
+Nguyễn Thị Thanh Phương, Hà Giang, 0385776324, 12/01/2004, K64XD
+Nguyễn Yến Trang, Hà Nội, 0903201621, 12/02/2004, K64XD
+Phạm Minh Đức, Thanh Hóa, 0885619488, 14/04/2004, K64XD
+Trần Anh Đức, Hải Phòng, 0923112113, 24/04/2004, K64XD
+Nguyễn Văn Thiệu, Nam Định, 0815478892, 24/02/2004, K64XD
+Phạm Minh An, Nam Định, 0877467128, 14/01/2004, K64XD
+Nguyễn Văn Quang, Hà Nội, 0343552004, 14/03/2004, K64XD
+Nguyễn Viết Quang, Hà Tĩnh, 084648247, 14/02/2004, K64XD
+Hoàng Văn Quang, Ninh Bình, 090402964, 14/04/2004, K64XD
+Lê Ngọc Khanh, Nghệ An, 0359658516, 14/05/2004, K64XD
+Dương Tuấn Linh, Hà Nam, 054667838, 14/06/2004, K64XD
+Đinh Thị Hồng, Nghệ An, 095976896, 14/07/2004, K64XD
+Hoàng Văn Nam, Hà Nam, 094556447, 14/08/2004, K64XD
+Nguyễn Hồng THái, Hà Nội, 067669869, 14/09/2004, K64XD
+Hồ Văn An, Thanh Hóa, 098976456, 14/10/2004, K64XD
+Hoàng Tiến Đạt, Hà Nội, 0984592271, 14/11/2004, K64XD
+Tạ Văn Hưng, Thanh Hóa, 086755724, 14/12/2004, K64XD
+Vũ Văn Tuấn, Nghệ An, 0764334244, 1/02/2004, K64XD
+Hồ Hồng Hà, Nam Định, 096687373, 2/02/2004, K64XD
+Hồ Hữu Minh Tuấn, Hòa Bình, 07159955051, 3/02/2004, K64XD
+Nguyễn Ngọc Sơn, Nghệ An, 03433554708, 4/02/2004, K64XD
+Nguyễn Văn Qúy, Hà Nội, 0971734492, 5/02/2004, K64XD
+Đinh Long Hải, Tiên Quang, 0943331273, 6/02/2004, K64XD
+Hoàng Hồng Quân, Thanh Hóa, 0983321132, 3/02/2004, K64XD
+Lê Thanh Tú, Nam Đinh, 0387122293, 5/05/2004, K64XD
+Nguyễn Huy Hoàng, Hải Phòng, 0833223004, 7/02/2004, K64XD
+Đinh Thu Hiền, HÀ Nội, 0965312224, 8/02/2004, K64XD
+Nguyễn Thị Quỳnh Tân, Nghệ An, 0972264632, 9/02/2004, K64XD
+Hà Xuân Hòa, Nghệ An, 080864342, 10/02/2004, K64XD
+Dương Ngọc Ánh, Nghệ An, 0999658516, 11/02/2003, K63DT
+Nguyễn Văn Linh, Hà Nam, 0946698838, 12/02/2003, K63DT
+Nguyễn Ánh Hồng, Ninh Bình, 0995976896, 13/02/2003, K63DT
+Nguyễn Văn Quân, Hà Nam, 0946564987, 15/02/2003, K63DT
+Tạ Hồng Ân, Hà Nội, 098869869, 15/02/2003, K63DT
+Nguyễn Thành An, Thanh Hóa, 0998976546, 16/02/2003, K63DT
+Bùi Tiến Đạt, Hà Nội, 0988892271, 17/02/2003, K63DT
+Hồ Văn Hưng, Thanh Hóa, 098955724, 18/02/2003, K63DT
+Phan Văn Tuấn, Nghệ An, 0977893342, 19/02/2003, K63DT
+Nguyễn Thị Hà, Bình Định, 099087376, 12/02/2003, K63DT
+Nguyễn Cảnh Bình, Hòa Bình, 0998765997, 20/02/2003, K63DT
+Đinh Thị Hà, Nam Định, 099896653, 21/02/2003, K63DT
+Lại Văn Hưng, Lạng Sơn, 0789114342, 22/02/2003, K63DT
+Đinh Thu Hà, Quảng Ngãi, 096508966, 23/02/2003, K63DT
+Nguyễn Thị Hoài, Nam Định, 095997768, 24/02/2003, K63DT
+Hoàng Trung Kiên, Hà Nội, 0975967655, 25/02/2003, K63DT
+Hồ Văn Sơn, Nghệ An, 0889744643, 23/01/2003, K63DT
+TRần Xuân Phương, Hà Nội , 0833927183, 23/02/2003, K63DT
+Nguyễn Văn Hưởng, Quảng Ninh, 0877762234, 26/02/2003, K63DT
+Hồ Huyền An, Hà Tĩnh, 0936754586, 27/02/2003, K63DT
+Hà Văn Thành, Lạng Sơn, 097776587, 28/02/2003, K63DT
+Hoàng Văn Nghĩa, Thanh Hóa, 090046588, 29/02/2003, K63DT
+Lê Văn  Linh, Thái Bình, 099876809, 30/02/2003, K63DT
+Hồ Thái Sơn, Lào Cai, 0984459875, 14/01/2003, K63DT
+Lại Xuân Bình, Hà Tĩnh, 0958125997, 14/03/2003, K63DT
+Nguyễn Thị Hương, Nam Định, 0869890653, 14/04/2003, K63DT
+Hồ Văn Thành, Hà Nội, 0999462128, 14/02/2002, K63DT
+Nguyễn Thị Thùy Linh, Thái Bình, 0943876868, 14/05/2003, K63DT
+Dương Văn Tuấn, Nghệ An, 0778912214, 14/06/2003, K63DT
+Nguyễn THị Hà, Nam Định, 0990877342, 14/07/2003, K63DT
+Phạm Thành An, Hà Nội , 0988984387, 14/08/2003, K63TM1
+Nguyễn THị Phương , Hải Phòng, 0990887325, 14/09/2003, K63TM1
+Dương Quyền Linh, Ninh Bình, 0980946355, 14/10/2003, K63TM1
+Tạ Hồng Hưng, Lạng Sơn, 098660999, 14/11/2003, K63TM1
+Nguyễn Văn Hà, Bắc Ninh, 088989496, 14/12/2003, K63TM1
+Đinh Văn Đạt , Thái Bình, 0989887612, 1/02/2003, K63TM1
+Nguyễn Văn Linh, Sơn La, 080767838, 2/02/2003, K63TM1
+Nguyễn Thị Hồng, Cao Bằng, 0558976876, 3/02/2003, K63TM1
+Nguyễn Văn Nam, Điện Biên, 0947652447, 4/02/2003, K63TM1
+Nguyễn Thị Hương, Nghệ An, 0887785479, 5/02/2003, K63TM1
+Nguyễn Thị Hồng, Nghệ An, 055997768, 6/02/2003, K63TM1
+Nguyễn Trung Trực, Hà Nội, 0535676585, 7/02/2003, K63TM1
+Dương Văn Hà, Nghệ An, 0349744673, 8/02/2003, K63TM1
+Hồ Thị Như, Hà Nội, 093492776, 14/03/2003, K63TM1
+Phạm Thành Công, Nghệ An, 0345893787, 14/04/2003, K63TM1
+Nguyễn Thị Thúy , Nam Định, 057884325, 14/05/2003, K63TM1
+Dương Quyền Anh, Hà Nam, 092354455, 14/06/2003, K63TM1
+Vũ Xuân Hoàng, Hòa Bình, 0366522443, 14/07/2003, K63TM1
+Hà Huy Hoàng, Quảng Bình, 0977863422, 14/08/2003, K63TM1
+Nguyễn Văn Thành, Quảng Nam, 0977835325, 14/09/2003, K63TM1
+Nguyễn Ngọc Linh, Nghệ An, 0899658516, 14/01/2003, K63TM1
+Hồ Thị Linh, Hà Nam, 0947437838, 14/10/2003, K63TM1
+Ngụy Thị Hồng, Hà Nội, 0576876896, 14/11/2003, K63TM1
+Hà Văn Nam, Hà Nam, 094676447, 14/12/2003, K63TM1
+Đinh Hồng THái, Hà Nội, 09866906, 21/02/2003, K63TM1
+Dương Văn An, Thanh Hóa, 097076546, 22/02/2003, K63TM1
+Hoàng Tiến Đạt, Hà Nội, 098987271, 23/02/2003, K63TM1
+Trần Văn Hưng, Hải Phòng, 0969905724, 24/02/2003, K63TM1
+Lê Văn Tuấn, Nghệ An, 0896973342, 25/02/2003, K63TM1
+Trần Thị Hồng Thư, Nam Định, 0890873673, 26/02/2003, K63TM1
+Đặng Nhật Minh, Ninh Bình, 094757475, 27/02/2005, K65KT
+Lê Bình Minh, Hà Nội, 099857833, 26/02/2005,K65KT
+Hoàng Nhật Minh, Bắc Giang, 097797775, 1/02/2005, K65KT
+Tạ Đức Nam, Hải Phòng, 0933843342, 12/02/2005, K65KT
+Nguyễn Văn Nam, Gia Lai, 078856523, 13/02/2005, K65KT
+Dương Văn Nghĩa, Ninh Bình, 096283884, 14/02/2005, K65KT
+Hồ Thị Hòa, Hà Nội, 097759895, 5/02/2005, K65KT
+Nguyễn Khánh Linh, Lào Cai, 039887765, 15/02/2005, K65KT
+Đỗ Quang Linh, Thanh Hóa, 073387666, 13/02/2005, K65KT
+Nguyễn Văn Phước, Nam Định , 0993278623, 6/02/2005, K65KT
+Đỗ Hữu Minh, Nam Định, 0915993051, 7/02/2005, K65KT
+Hoàng Ngọc Sơn, Bác Giang, 0303334708, 8/02/2005, K65KT
+Đỗ Văn Quyến, Hà Nội, 097093692, 9/02/2005, K65KT
+Vũ Hải Hoàn, Quang Ninh, 0940031273, 10/02/2005, K65KT
+Nguyễn Văn Quân, Thanh Hóa, 0909521132, 11/02/2005, K65KT
+Nguyễn Thanh Tú, Nghệ An, 0397125493, 12/02/2005, K65KT
+Lò Huy Hoàng, Hải Phòng, 0815223004, 24/06/2005, K65KT
+Nguyễn Thu Hiền, Hà Nội, 0965312004, 24/02/2005, K65KT
+Nguyễn Thị Quỳnh Hoa, Nghệ An, 097198832, 24/02/2005, K65KT
+Ngô Xuân Hòa, Hòa Bình, 090854632, 24/02/2005, K65KT
+Trương Anh Huy, Thanh Hóa, 09873746, 17/02/2005,K65KT
+Trần Giang Đông, Hà Nội, 0999952972, 14/02/2005, K65KT
+Vũ Tùng Dương, Hà Nội, 0865688682, 11/03/2005, K65KT
+Bùi Quang Hòa, Thanh Hóa, 0338837777, 18/02/2005, K65KT
+Lê Anh Đức, Thái Bình, 0372718176, 19/02/2005, K65KT
+Nguyễn Văn Khải, Hưng Yên, 0971265409, 13/02/2005, K65KT
+Hồ Văn Bình, Hà Nội, 03647246994, 14/05/2005, K65KT
+Nguyễn Đức Bình, Thái Bình, 0398854002, 17/02/2005, K65KT
+Nguyễn Bảo Chung, Hòa Bình, 0956518822, 18/02/2005, K65KT
+Nguyễn Trà Giang, Hà Nội, 0987364986, 14/09/2005, K65KT
+Trần Diệu Hoài Anh, Hà Nội, 0909382004, 14/04/2005, K65KT
+Nguễn Anh Đức, Hưng Yên, 0394887944, 15/02/2005, K65KT
+Đào Văn Dương, Hà Nội, 0968938723, 16/06/2005, K65KT
+Nguyễn Nam Phương, Hà Nội, 0887520976, 15/07/2005, K65KT
+Lê Quyết Tan, Thanh Hóa, 0983761421, 14/07/2005, K65KT
+Nguyễn Xuân Hòa, Thanh Hóa, 0965711256, 14/08/2005, K65KT
+Nguyễn Văn Hiệp, Hà Nội, 0978739774, 14/09/2005, K65KT
+Lê Ngọc Thanh, Nam Định, 085246697, 29/02/2005, K65KT
+Dương Tiến Anh, Thái Bình, 0337326650, 18/02/2005, K65KT
+Trần Tiến Bảo, Hà Giang, 0978277838, 28/02/2005, K65KT
+Đinh Thu Hương, Quang Nam, 0345601263, 27/02/2005, K65NNA
+Chu Dương Khánh, Hà Nam, 0894047807, 1/02/2005, K65NNA
+Nguyễn Thị Hoa, Bắc Giang, 0954990469, 14/02/2005, K65NNA
+Lê Thu Hương, Hà Nội, 0345312347, 2/02/2005, K65NNA
+Hoàng Anh Phương, Lạng Sơn, 0349674170, 4/02/2005, K65NNA
+Nguyễn Thị Thanh, Hà Giang, 0385576324, 5/02/2005, K65NNA
+Vũ Yến Trang, Hà Nội, 0906201441, 6/02/2005, K65NNA
+Phạm Viết Hưng, Thanh Hóa, 0834619488, 7/02/2005, K65NNA
+Trần Anh Đức, Hải Phòng, 0927212113, 8/02/2005, K65NNA
+Nguyễn Dương Nam, Nam Định, 035478892, 18/02/2005, K65NNA
+Phạm Minh Tú, Nghệ An, 0877467112, 15/02/2005, K65NNA
+Nguyễn Vinh Quang, Ninh Bình, 0314352004, 16/02/2005, K65NNA
+Nguyễn Viết Quang, Hà Nam, 084648212, 17/02/2005, K65NNA
+Hoàng Vinh Quang, Lạng Sơn, 090401261, 12/02/2005, K65NNA
+Hoàng Minh Nghĩa, Bắc Ninh, 0982123877, 14/05/2005, K65NNA
+Lê Trọng Kiên, Hà Nam, 03680124122, 14/06/2005, K65NNA
+Lê Đình Tiến Lực, Nghệ An, 03743625121, 14/07/2005, K65NNA
+Nguyễn Hữu Lâm, Thanh Hóa, 0351103224, 14/09/2005, K65NNA
+Nguyễn Trung Kiên, Hải Dương, 036233292, 14/12/2005, K65NNA
+Trương Nhật Hoàng, Quảng Nam, 0829820555, 14/11/2005, K65NNA
+Phùng Văn Hoàng, Hòa Bình, 09721571955, 19/05/2005, K65NNA
+Phan Trọng Dũng, Ninh Bình, 09449844293, 21/02/2005, K65NNA
+Đinh Văn Thành, Hải Dương, 093476583, 22/02/2005, K65NNA
+Hồ Văn Hoan, Thanh Hóa, 0998125887, 25/02/2005, K65NNA
+Nguyễn Thị Thư, Thái Bình, 091276867, 24/02/2005, K65NNA
+Hồ Văn Sơn, Nghệ An, 09844534127, 25/02/2005, K65NNA
+Nguyễn Xuân Bình, Quảng Bình, 0953346599, 26/02/2005, K65NNA
+Nguyễn Thị Hà, Quảng Ninh, 0335890659, 26/03/2005, K65NNA
+Hồ Văn An, Hà Nội, 0999468012, 31/02/2005, K65NNA
+Nguyễn Thị Thùy Linh, Ninh Bình, 0908343865, 13/09/2005, K65NNA
+Phan Anh Tuấn, Nghệ An, 077893789, 14/03/2002, K62CNTT
+Nguyễn Hồng Thư, Nam Định, 099087787, 14/04/2002, K62CNTT
+Đào Ngọc Linh, Nghệ An, 057965855, 14/06/2002, K62CNTT
+Nguyễn Anh Linh, Hà Nam, 094778399, 14/06/2002, K62CNTT
+Nguyễn Văn Hưởng, Hà Nội , 055776898, 14/08/2002, K62CNTT
+Nguyễn Văn Dũng, Hà Nam, 094606887, 14/01/2002, K62CNTT
+Vũ Hồng THái, Hà Nội, 078669009, 14/10/2002, K62CNTT
+Nguyễn Văn Hòa, Thanh Hóa, 098076590, 14/11/2002, K62CNTT
+Nghiêm Tiến Đạt, Hà Nội, 098988290, 12/02/2002, K62CNTT
+Đào Văn Hiền, Hải Phòng, 089905889, 13/02/2002, K62CNTT
+Đinh Văn Sơn, Lạng Sơn, 0988712580, 15/02/2002, K62CNTT
+Hồ Văn An, Thanh Hóa, 099846510, 14/06/2002, K62CNTT
+Nguyễn Thị Linh, Tiên Quang, 091876860, 17/02/2002, K62CNTT
+Hồ Văn Sơn, Hòa Bình, 0984453231, 18/02/2002, K62CNTT
+Nguyễn Xuân Dân, Hà Tĩnh, 09587625900, 19/02/2002, K62CNTT
+Nguyễn Thị Hoa, Nam Định, 0598930658, 24/02/2002, K62CNTT
+Hồ Văn Bảo, Thanh Hóa, 0999465819, 24/12/2002, K62CNTT
+Nguyễn Thị Thùy Linh, Ninh Bình, 0908768348, 14/12/2002, K62CNTT
+Phan Văn Tuấn, Lạng Sơn, 09778937809, 7/04/2002, K62CNTT
+Nguyễn Anh Hà, Nam Định, 0949087767, 4/04/2002, K62CNTT
+Đinh Văn Thành An, Sơn La, 078876580, 4/03/2003, K63ANM1
+Hồ Văn Bình, Hòa Bình, 099876580, 4/05/2002, K63ANM1
+Nguyễn Thị Thùy Linh, Ninh Bình, 0123876860, 16/05/2002, K63ANM1
+Hồ Văn Baot, Điện Biên, 0984457132, 1/04/2003, K63ANM1
+Dương Văn Bình, Hà Tĩnh, 0878761200, 15/07/2003, K63ANM1
+Nguyễn Thị Túy, Hà Nam, 0598806128, 19/06/2003, K63ANM1
+Hồ Văn Tân, Nghệ An, 0999482123, 24/09/2003, K63ANM1
+Nguyễn  Thùy Linh, Hải Phòng, 080768688, 10/03/2003, K63ANM1
+Hoàng Văn Tuấn, Hà Tĩnh, 0778937800, 04/07/2003, K63ANM1
+Nguyễn Văn Hà, Tiên Quang, 088087897, 12/09/2003, K63ANM1
+Lê Văn Minh, Hà Nam, 0977567242, 24/12/2003, K63ANM1
+Nguyễn Văn Minh, Bắc Ninh, 096877225, 14/12/2003, K63ANM1
+Thái Nhật Bình, Tiên Quang, 08672237775, 14/01/2003, K63ANM1
+Nguyễn Đức Anh, Hải Dương, 093344838, 13/02/2003, K63ANM1
+Nguyễn Văn Dương, Ninh Bình, 0343856523, 14/09/2003, K63ANM1
+Đào Văn An, Nghệ An, 0962862134, 14/10/2003, K63ANM1
+Trần Thị Ngọc, Lào Cai, 0977524345, 12/02/2003, K63ANM1
+Trịnh Duy Ngọc, Lạng Sơn, 092812366, 13/02/2003, K63ANM1
+Nguyễn Quang Lâm, Bắc Giang, 0323377660, 15/02/2003, K63ANM1
+Nguyễn Đăng Long, Diện Biên, 0933353430, 16/02/2003, K63ANM1
+Hoàng Phương Anh, Bắc Giang, 0389214130, 17/02/2002, K62DT2
+Nguyễn Thị Thanh Phương, Hà Giang, 0383776324, 19/02/2002, K62DT2
+Nguyễn Yến Trang, Hà Nội, 0903201221, 20/02/2002, K62DT2
+Phạm Minh Đức, Thanh Hóa, 088561388, 31/02/2002, K62DT2
+Trần Anh Đức, Hải Phòng, 09233413, 24/02/2002, K62DT2
+Nguyễn Văn Thiệu, Nam Định, 081358892, 25/02/2002, K62DT2
+Phạm Minh An, Nam Định, 0877467148, 26/02/2002, K62DT2
+Nguyễn Văn Quang, Hà Nội, 0343553304, 27/02/2002, K62DT2
+Nguyễn Viết Quang, Hà Tĩnh, 0846464247, 23/02/2002, K62DT2
+Hoàng Văn Quang, Cao Bằng, 0904029334, 31/03/2002, K62DT2
+Lê Khánh Ngọc, Nghệ An, 0359654316, 9/09/2002, K62DT2
+Dương Anh Linh, Hà Nam, 0546637838, 14/10/2002, K62DT2
+Đinh Hồng HƯơng, Nghệ An, 0953976896, 31/12/2002, K62DT2
+Hoàng Văn Nam, Ninh Bình, 0945564447, 14/01/2002, K62DT2
+Nguyễn Hồng THái, Nghệ An, 0676693869, 4/02/2002, K62DT2
+Hồ Văn An, Hà Nội, 0989764256, 11/09/2002, K62DT2
+Hoàng Tiến Đạt, Hà Nam, 09834592271, 10/09/2002, K62DT2
+Tạ Văn Hưng, Hải Phòng, 0867545724, 14/09/2002, K62DT2
+Vũ Văn Tuấn, Hà Nam, 07643342244, 4/02/2002, K62DT2
+Hồ Hồng Hà, Thanh Hóa, 0966822373, 14/07/2002, K62DT2
+Hồ Minh Tuấn, Hòa Bình, 0769945051, 15/07/2002, K62DT2
+Nguyễn Ngọc Hà, Nghệ An, 06433554708, 18/05/2002, K62DT2
+Nguyễn Văn Khanh, Hà Nội, 0976734492, 18/06/2002, K62DT2
+Đinh Long Mạnh, Tiên Quang, 0543331273, 16/01/2002, K62DT2
+Hoàng Hồng Hạc, Thanh Hóa, 0483321132, 19/02/2002, K62DT2
+Lê Thanh Thanh, Nam Đinh, 038712293, 24/04/2002, K62DT2
+Nguyễn Huy Hưởng, Hải Phòng, 0733223004, 31/01/2002, K62DT2
+Đinh Thị Hiền, Hà Nội, 096533224, 17/07/2002, K62DT2
+Nguyễn Thị Quỳnh An, Nghệ An, 0972664632, 9/02/2002, K62DT2
+Hà Ân Hòa, Nghệ An, 0980864342, 14/10/2002, K62DT2
+Dương Khánh Phương, Nghệ An, 0989658516, 11/02/2002, K62KTPM
+Nguyễn Tuấn Linh, Hà Nội, 094688838, 12/02/2002, K62KTPM
+Nguyễn Thị Hồng, Hà Nội, 095976896, 13/02/2002, K62KTPM
+Nguyễn Văn Nam, Hà Tĩnh, 024656447, 14/02/2002, K62KTPM
+Tạ Hồng THái, Hà Nam, 078649869, 15/02/2002, K62KTPM
+Nguyễn Văn An, Thanh Hóa, 998976546, 16/02/2002, K62KTPM
+Đinh Tiến Đạt, Hà Nội, 0982892271, 17/02/2002, K62KTPM
+Đào Văn Hưng, Thanh Hóa, 039955724, 18/02/2002, K62KTPM
+Nguyễn Văn Tuấn, Nghệ An, 477893342, 19/02/2002, K62KTPM
+Nguyễn Hồng Hà, Nam Định, 599087373, 20/02/2002, K62KTPM
+Nguyễn Xuân Bình, Thanh Hóa, 0558765997, 21/02/2002, K62KTPM
+Nguyễn Thị Hà, Nam Định, 093890653, 22/02/2002, K62KTPM
+Dương Văn Hưng, Lạng Sơn, 0789112342, 23/02/2002, K62KTPM
+Đinh Thu Hương, Vũng Tàu, 086578966, 24/02/2002, K62KTPM
+Nguyễn Thị Hoài, Huế, 090997768, 25/02/2002, K62KTPM
+Nguyễn Trung Kiên, Hà Nam, 055967655, 26/02/2002, K62KTPM
+Dương Văn Sơn, Hưng Yên, 0889744643, 27/02/2002, K62KTPM
+Hồ Xuân Phương, Hà Nam, 0933927183, 28/02/2002, K62KTPM
+Nguyễn Thị Hương, Quảng Nam, 0889762234, 29/02/2002, K62KTPM
+Hồ Huyền Vy, Lạng Sơn, 096675456, 30/02/2002, K62KTPM
+Đinh Văn Thành, Sơn La, 098876587,  14/01/2002,K62KTPM
+Hồ Văn Nghĩa, Thanh Hóa, 099846588, 14/02/2002, K62KTPM
+Nguyễn Thị Linh, Gia Lai, 099876868, 14/03/2002, K62KTPM
+Hồ Văn Sơn, Ninh Bình, 0984453475, 14/04/2002, K62KTPM
+Nguyễn Xuân Bình, Hà Nam, 0958765997, 14/05/2002, K62KTPM
+Nguyễn Thị Hà, Quảng Bình, 059890653, 14/06/2002, K62KTPM
+Hồ Văn An, Nghệ An , 099946588, 14/07/2002, K62KTPM
+Nguyễn Thị Thùy Linh, Thái Bình, 090876868, 14/08/2002, K62KTPM
+Phan Văn Tuấn, Hải Phòng, 0747893787, 14/09/2002, K62KTPM
+Nguyễn THị Hồng Hà, Bắc Ninh, 099087765, 14/10/2002, K62KTPM
+Phạm Thành An, Nghệ An, 09889478, 1/02/2005, K65TMDT
+Nguyễn THị Phương, Nam Định, 29908432, 2/02/2005, K65TMDT
+Dương Quyền Linh, Nghệ An, 093554635, 3/02/2005, K65TMDT
+Tạ Hồng Hưng, Hà Nội, 09866942, 4/02/2005, K65TMDT
+Nguyễn Văn Hà, Thanh Hóa, 09438949, 5/02/2005, K65TMDT
+Đinh Văn Đạt, Hà Nội, 098983425, 6/02/2005, K65TMDT
+Nguyễn Văn Linh, Hà Nam, 0895378, 7/02/2005, K65TMDT
+Nguyễn Thị Hồng, Hải Phòng, 42597687, 8/02/2005, K65TMDT
+Nguyễn Văn Nam, Hà Tĩnh, 094452244, 9/02/2005, K65TMDT
+Nguyễn Thị Hương, Điện Biên, 497785, 10/02/2005, K65TMDT
+Nguyễn Thị Hoa, Nghệ An, 080994765, 11/02/2005, K65TMDT
+Nguyễn Trung Văn, Hà Nội, 055947658, 12/02/2005, K65TMDT
+Dương Văn An, Nghệ An, 08897444, 13/02/2005, K65TMDT
+Hồ Xuân Phong, Hà Nội, 093392746, 14/02/2005, K65TMDT
+Phạm Thành Trường, Nghệ An, 09889374, 15/02/2005, K65TMDT
+Nguyễn Thị Dương, Nam Định, 09488432, 16/02/2005, K65TMDT
+Dương Quyền Ánh, Hà Nam, 09855445, 17/02/2005, K65TMDT
+Vũ Xuân Bình, Hòa Bình, 03665265, 18/02/2005, K65TMDT
+Hà Huy Hùng, Quảng Bình, 09778634, 19/02/2005, K65TMDT
+Nguyễn Văn Hoa, Quảng Nam, 09774655, 20/02/2005, K65TMDT
+Hồ Ngọc Linh, Nghệ An, 057965851, 21/02/2005, K65TMDT
+Đinh Thị Linh, Hà Nam, 09477838, 22/02/2005, K65TMDT
+Nguyễn Thị Hồng, Hà Nội, 05577689, 23/02/2005, K65TMDT
+Nguyễn Văn Nam, Hà Nam, 0946064, 24/02/2005, K65TMDT
+Tạ Hồng THái, Hà Nội, 07866906, 25/02/2005, K65TMDT
+Nguyễn Văn An, Thanh Hóa, 09807654, 26/02/2005, K65TMDT
+Đinh Tiến Đạt, Hà Nội, 0989882, 27/02/2005, K65TMDT
+Đào Văn Hưng, Hải Phòng, 08990572, 28/02/2005, K65TMDT
+Nguyễn Văn Tuấn, Nghệ An, 0896933, 29/02/2005, K65TMDT
+Nguyễn Hồng Hà, Nam Định, 08908737, 30/02/2005, K65TMDT
+Lê Nhật Minh, Hà Nội, 09775777, 14/01/2005, K65TMDT
+Nguyễn Bình Minh, Hà Nội, 099857875, 14/03/2005, K65TMDT
+Thái Nhật Minh, Hòa Bình, 08779777, 14/04/2005, K65TMDT
+Nguyễn Đức Nam, Nghệ An, 09338483, 14/05/2005, K65TMDT
+Nguyễn Văn Nam, Gia Lai, 099856523, 14/06/2005, K65TMDT
+Đào Văn Nghĩa, Quảng Ninh, 09628388, 14/07/2005, K65TMDT
+Trần Thị Ngọc, Hà Nội, 09775777, 14/08/2005, K65TMDT
+Trịnh Khánh Ngọc, Lào Cai, 09988776, 14/09/2005, K65TMDT
+Nguyễn Quang Phố, THanh Hóa, 07788766, 14/10/2005, K65TMDT
+Nguyễn Đăng Phúc, Nam Định, 093326162, 14/11/2005, K65TMDT
+Đỗ Hữu Minh Tuấn, Hòa Bình, 081599305, 14/12/2005, K65TMDT
+Hoàng Ngọc Sơn, Nghệ An, 037333470, 19/01/2005, K65TMDT
+Vi Văn Qúy, Hà Nội, 09717369, 12/01/2005, K65TMDT
+Vũ Long Hải, Tiên Quang, 094163127, 1/03/2005, K65TMDT
+Nguyễn Hồng Quân, Thanh Hóa, 098952113, 4/09/2005, K65TMDT
+Nguyễn Thanh Tú, Nam Đinh, 038712549, 13/09/2005, K65TMDT
+Lò Huy Hoàng, Hải Phòng, 081522300, 1/05/2005, K65TMDT
+Chu Thu Hiền, Hà Nội, 096531200, 4/06/2005, K65TMDT
+Ngô Thị Quỳnh Tân, Nghệ An, 09719646, 24/09/2005, K65TMDT
+Ngô Xuân Hòa, Nghệ An, 08086463, 1/09/2005, K65TMDT
+Trương Quốc Huy, Thanh Hóa, 08351847, 6/08/2005, K65TMDT
+Nguyễn Giang Đông, Hà Nội, 091285297, 1/08/2005, K65TMDT
+Lê Tùng Dương, Hà Nội, 086564168, 2/09/2005, K65TMDT
+Bùi Quang Thắng, Thanh Hóa, 03348377, 10/11/2005, K65TMDT
+Lê Trí Đức, Thái Bình, 0372712176, 20/06/2005, K65TMDT
+Nguyễn Văn Khải, Hưng Yên, 09812654, 20/07/2005, K65TMDT
+Hồ Xuân Dân, Hà Nội, 03672460, 20/05/2005, K65TMDT
+Nguyễn Đức Bình, Thái Bình, 03988544, 20/08/2005, K65TMDT
+Nguyễn Bảo Chung, Hòa Bình, 09565182, 20/09/2005, K65TMDT
+Nguyễn Trà Giang, Hà Nội, 098736460, 20/12/2005, K65TMDT
+Nguyễn Diệu Hoài Anh, Hà Nội, 091638200, 20/11/2005, K65TMDT
+Trần Anh Đức, Hưng Yên, 039419794 29/10/2005, K65TMDT
+Nguyễn Văn Dương, Hà Nội, 096893192, 28/10/2005, K65TMDT
+Nguyễn Khắc Nam Phương, Hà Nội, 09675209, 27/10/2005, K65TMDT
+Lê Quyết Tiến, Thanh Hóa, 09835814, 26/10/2005, K65TMDT
+Nguyễn Xuân Bình, Thanh Hóa, 096531125, 25/10/2005, K65TMDT
+Nguyễn Ngọc Hiệp, Hà Nội, 097873920, 24/10/2005, K65TMDT
+Lê Phương Thanh, Nghệ An, 08524620, 23/10/2005, K65TMDT
+Dương Tiến Đạt, Thái Bình, 03383266, 22/10/2005, K65TMDT
+Lê Trần Tiến Bảo, NGhệ An, 097825083, 21/10/2005, K65TMDT
+Đinh Thị Thu Hương, Quang Bình, 033360126, 30/10/2005, K65TMDT
+Chu Dương Khánh, Nam Định, 070404780, 11/12/2005, K65TMDT
+Nguyễn Thị Hoa, Bắc Ninh, 092599046, 23/11/2005, K65TMDT

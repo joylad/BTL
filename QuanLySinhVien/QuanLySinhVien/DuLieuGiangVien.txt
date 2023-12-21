@@ -1,0 +1,29 @@
+Nguyễn Thu Thảo, Nam Định, 0367352555, 24/04/1983, Ths, Bộ môn công nghệ phần mềm
+Trần Anh Dũng, Hà Nội, 10364488888, 2/10/1973, PGS-TS, Bộ môn trí tuệ nhân tạo
+Nghiêm Anh Tú, Hải Dương, 0363122400, 01/12/1971, Ths, Bộ môn kiến trúc máy tính
+Trần Đức Anh, Hà Nội, 0394567890, 12/07/1971, Ths, Bộ môn công nghệ phần mềm
+Nguyễn Quỳnh Châu, Hà Nam, 0368971237, 05/06/1972, Ths, Bộ môn cơ sở dữ liệu
+Nguyễn Văn Thêm, Vĩnh Phúc, 0368278216, 22/04/1969, PGS, Bộ môn nguyên lý lập trình hướng đối tượng
+Trần Hà Linh, Hà Nội, 0361268124, 23/05/1980, Ths, Bộ môn cơ sở dữ liệu
+Nguyễn Thu Thảo, Bình Định, 0368234662, 11/06/1971, TS, Bộ môn lập trình C++
+Đào Bá Tú, Hải Dương, 0362763263, 13/04/1984, Ths, Bộ môn lập trình Python
+Phạm Duy Mạnh, Thái Nguyên, 0363132525, 30/10/1975, Ths, Bộ môn cấu trúc dữ liệu và giải thuật
+Bùi An Ca, Nam Định, 0368127812, 28/02/1975, Ths, Bộ môn công nghệ phần mềm
+Nguyễn Kim Thiện, Hà Nội, 0368971117, 15/03/1971, TS, Bộ môn lập trình C++
+Nguyễn Văn Tú, Vĩnh Phúc, 0368262736, 02/04/1978, Ths, Bộ môn kiến trức máy tính
+Trần Ngọc Thơm, Bắc Kạn, 0363122428, 10/09/1977, Ths, Bộ môn cơ sở dữ liệu
+Lê Kim Chi, Thái Bình, 0368278216, 24/04/1975, PGS, Bộ môn nguyên lý lập trình hướng đối tượng
+Lê Anh Huy, Hà Nội, 0365432211, 12/11/1968, TS, Bộ môn lập trình Python
+Phạm Việt Kiều, Hà Nam, 0361121971, 01/01/1970, TS, Bộ môn lập trình C++
+Đào Trọng Tú, Thanh Hóa, 0341289764, 19/03/1969, PSG-TS, Bộ môn lập trình C++
+Trần Duy Linh, Nam Định, 0387746818, 05/01/1972, TS, Bộ môn cấu trúc dữ liệu và giải thuật
+Bùi Duy Mạnh, Vĩnh Phúc, 0363473242, 12/07/1969, PGS-TS, Bộ môn nguyên lý lập trình hướng đối tượng
+Quách Nhật Quyên, Hà Nội, 0386438463, 23/02/1983, Ths, Bộ môn lập trình Python
+Lê Hà Vi, Huế, 0353786473, 21/10/1982, Ths, Bộ môn cơ sở dữ liệu
+Phạm Hải Nam, Thái Bình, 0364738832, 09/08/1973, Ths, Bộ môn nguyên lý lập trình hướng đối tượng
+Lê Hân Hoan, Ninh Bình, 0362763221, 19/03/1967, Ths, Bộ môn cấu trúc dữ liệu và giải thuật
+Nguyễn Bá Trọng, Hà Nội, 0373647322, 29/07/1966, Ths, Bộ môn lập trình Python
+Nguyễn Khánh Linh, Nghệ An, 0368343532, 10/09/1976, Ths, Bộ môn lập trình C++
+Nghiêm Anh Tú, Đà Nẵng, 0318724729, 22/08/1963, Ths, Bộ môn cơ sở dữ liệu
+Vũ Văn Nam, Nghệ An, 0322846888, 05/08/1966, Ths, Bộ môn kiến trúc máy tính
+Nguyễn Trung Kiên, Nam Định, 0362746376, 24/04/1983, Ths, Bộ môn cấu trúc dữ liệu và giải thuật
